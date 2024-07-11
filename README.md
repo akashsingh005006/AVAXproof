@@ -15,7 +15,7 @@ To interact with `token.sol` and `Vault.sol`.
 
 2.**Metamask**
 
-  - Install Metamask for transactio in Code.
+  - Install Metamask for transaction in Code.
   - add local network which you will created on ubuntu.
   - After it add Token
 
